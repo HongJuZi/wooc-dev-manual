@@ -18,7 +18,7 @@
 * 架构
    * [URL模式](architecture/URL模式.md)
    * [模块化设计](architecture/模块化设计.md)
-   * 自动加载
+   * [自动加载](architecture/自动加载.md)
    * 应用模式
    * 系统加载流程
    * MVC框架
