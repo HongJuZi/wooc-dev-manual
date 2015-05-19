@@ -51,4 +51,5 @@
    * UPDATE
    * DELETE
    * 自定义
+   * 连贯操作
 
