@@ -50,4 +50,5 @@
    * SELECT
    * UPDATE
    * DELETE
+   * 自定义
 
