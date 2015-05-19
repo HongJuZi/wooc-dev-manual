@@ -48,4 +48,5 @@
    * 参数绑定
 * SQL查询
    * SELECT
+   * UPDATE
 
