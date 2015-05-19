@@ -49,4 +49,5 @@
 * SQL查询
    * SELECT
    * UPDATE
+   * DELETE
 
