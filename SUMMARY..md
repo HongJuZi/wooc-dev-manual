@@ -18,4 +18,5 @@
 * 架构
    * [URL模式](architecture/URL模式.md)
    * 模块化设计
+   * 自动加载
 
