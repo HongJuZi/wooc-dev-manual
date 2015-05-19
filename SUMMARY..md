@@ -16,5 +16,5 @@
    * [扩展配置](config/扩展配置.md)
    * [应用配置](config/应用配置.md)
 * 架构
-   * URL模式
+   * [URL模式](architecture/URL模式.md)
 
