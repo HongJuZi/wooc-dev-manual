@@ -17,7 +17,7 @@
    * [应用配置](config/应用配置.md)
 * 架构
    * [URL模式](architecture/URL模式.md)
-   * 模块化设计
+   * [模块化设计](architecture/模块化设计.md)
    * 自动加载
    * 应用模式
    * 系统加载流程
