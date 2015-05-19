@@ -21,5 +21,5 @@
    * [自动加载](architecture/自动加载.md)
    * [应用模式](architecture/应用模式.md)
    * [系统加载流程](architecture/系统加载流程.md)
-   * MVC框架
+   * [MVC框架](architecture/MVC框架.md)
 
