@@ -20,6 +20,6 @@
    * [模块化设计](architecture/模块化设计.md)
    * [自动加载](architecture/自动加载.md)
    * [应用模式](architecture/应用模式.md)
-   * 系统加载流程
+   * [系统加载流程](architecture/系统加载流程.md)
    * MVC框架
 
