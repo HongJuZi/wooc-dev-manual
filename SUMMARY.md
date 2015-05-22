@@ -1,6 +1,7 @@
 # Summary
 
-* 序言
+* [introduction](README.md)
+* [序言](序言.md)
 * 基础
    * [获取Wooc](base/获取Wooc.md)
    * [环境要求](base/环境要求.md)
