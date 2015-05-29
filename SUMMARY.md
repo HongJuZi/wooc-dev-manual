@@ -13,7 +13,6 @@
    * [配置格式](config/配置格式.md)
    * [配置加载](config/配置加载.md)
    * [读取配置](config/读取配置.md)
-   * [扩展配置](config/扩展配置.md)
    * [应用配置](config/应用配置.md)
 * 架构
    * [URL模式](architecture/URL模式.md)
